@@ -1,0 +1,21 @@
+* {
+ margin: 0px;
+}
+body{
+background-color: blue;
+color: azure;
+}
+.textarea{
+width: 100%;
+font-size: 25px;
+padding: 15px;
+border-radius: 0px;
+outline: none;
+}
+#preview{
+    width: 100%;
+    background-color: aquamarine;
+    padding: 30px;
+    text-align: left;
+    border-radius: 40px;
+}
